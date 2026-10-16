@@ -6,22 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Launch Page.unity
+    guid: fd5e825a5f16f584683e9304cd93a8d5
+  - enabled: 1
     path: Assets/Scenes/Strawhats Page.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 0
-    path: Assets/Scenes/StrawHatPirates.unity
-    guid: d3b3d0fe09533e343b82dd9635771b09
-  - enabled: 1
-    path: Assets/Scenes/OnePieceMainPage.unity
-    guid: df71d62d818e3d646a4e735a5872ba48
-  - enabled: 1
-    path: Assets/Scenes/Zoro Page.unity
-    guid: 49852b633037a934396e455eb4a00901
-  - enabled: 1
-    path: Assets/Scenes/Sanji Page.unity
-    guid: 8fe57d083131fb442bf1a67045cd21b4
   - enabled: 1
     path: Assets/Scenes/Luffy Page.unity
+    guid: 1925ef7944106584ebc3cecadb764414
+  - enabled: 1
+    path: Assets/Scenes/Zoro Page.unity
+    guid: 9e4dfb9b756f3994c8c5e698215bdb59
+  - enabled: 1
+    path: Assets/Scenes/Sanji Page.unity
     guid: 5c04570e23d7869418047d5b465fb584
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
